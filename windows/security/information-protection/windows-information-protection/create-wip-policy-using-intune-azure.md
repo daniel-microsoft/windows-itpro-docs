@@ -90,10 +90,10 @@ Select **Recommended apps** and select each app you want to access your enterpri
 ![Microsoft Intune management console: Recommended apps](images/recommended-apps.png)    
 
 ### Add Store apps 
-
+All fields marked as “*”	
 Select **Store apps**, type the app product name and publisher, and click **OK**. For example, to add the Power BI Mobile App from the Store, type the following: 
 
-- **Name**: Microsoft Power BI
+- **Name**: Microsoft Power BAll fields marked as “*”	I
 - **Publisher**: `CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US`
 - **Product Name**: `Microsoft.MicrosoftPowerBIForWindows`
 
@@ -160,7 +160,7 @@ To add **Desktop apps**, complete the following fields, based on what results yo
     </tr>
     <tr>
         <td>All fields marked as “*”</td>
-        <td>All files signed by any publisher. (Not recommended)</td>
+        <td>All files signed by any publisher. (Not recommended and may not work)</td>
     </tr>
     <tr>
         <td>Publisher only</td>
